@@ -1,0 +1,47 @@
+erDiagram
+    CLIENTES ||--o{ PEDIDOS : realiza
+    PEDIDOS ||--|{ DETALLE_PEDIDOS : contiene
+    PRODUCTOS ||--|{ DETALLE_PEDIDOS : incluye
+    PRODUCTOS ||--o{ INVENTARIOS : ubicado_en
+
+    CLIENTES {
+        int id_cliente PK
+        string nombre
+        string email
+        string direccion
+        string ciudad
+        string codigo_postal
+        date fecha_registro
+    }
+
+    PRODUCTOS {
+        int id_producto PK
+        string nombre
+        string categoria
+        float precio
+        int stock
+    }
+
+    PEDIDOS {
+        int id_pedido PK
+        int id_cliente FK
+        date fecha_pedido
+        float total
+        string estado
+    }
+
+    DETALLE_PEDIDOS {
+        int id_detalle PK
+        int id_pedido FK
+        int id_producto FK
+        int cantidad
+        float precio_unitario
+    }
+
+    INVENTARIOS {
+        int id_inventario PK
+        int id_producto FK
+        string ubicacion
+        int cantidad_actual
+        date fecha_ultima_actualizacion
+    }

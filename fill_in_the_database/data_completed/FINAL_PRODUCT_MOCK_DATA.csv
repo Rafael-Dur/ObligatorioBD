@@ -1,0 +1,801 @@
+id_product,product_name,category,price,stock
+1,"Pork - Tenderloin, Fresh",bazaar,819.97,128
+2,Pork - Belly Fresh,cosmetic,193.12,944
+3,Wine - Fume Blanc Fetzer,pets,115.22,404
+4,Mousse - Banana Chocolate,food,554.27,368
+5,Cod - Black Whole Fillet,bazaar,316.51,586
+6,Cream - 18%,food,757.98,776
+7,"Wine - Red, Cabernet Merlot",cosmetic,680.65,503
+8,"Juice - V8, Tomato",fishing,344.43,312
+9,Rice - Basmati,fishing,135.22,865
+10,Remy Red,food,178.57,11
+11,"Halibut - Whole, Fresh",food,478.89,62
+12,Grapes - Red,toys,956.91,613
+13,Mousse - Passion Fruit,fishing,549.16,239
+14,Soup Bowl Clear 8oz92008,pets,356.03,632
+15,Icecream Cone - Areo Chocolate,fishing,499.83,517
+16,Jerusalem Artichoke,fishing,452.68,470
+17,Fish - Bones,bazaar,843.64,213
+18,Wine - Sauvignon Blanc,fishing,249.1,952
+19,Mints - Striped Red,food,428.72,906
+20,Oil - Olive Bertolli,cosmetic,346.48,341
+21,"Mushroom - Shitake, Fresh",cleaning,47.98,271
+22,Sea Bass - Fillets,food,57.0,645
+23,Quail - Jumbo Boneless,fishing,64.58,689
+24,Salt - Celery,cleaning,224.41,271
+25,Containter - 3oz Microwave Rect.,cosmetic,866.61,243
+26,Quail - Jumbo,bazaar,27.12,146
+27,Trueblue - Blueberry,food,411.91,664
+28,"Apple - Delicious, Red",toys,296.28,848
+29,"Chilli Paste, Ginger Garlic",pets,970.62,281
+30,Longan,cleaning,759.28,844
+31,Eggplant Oriental,fishing,790.28,610
+32,Ecolab - Hobart Washarm End Cap,cleaning,440.94,426
+33,Bread - Dark Rye,bazaar,511.11,751
+34,Trueblue - Blueberry 12x473ml,food,957.77,80
+35,"Mustard - Dry, Powder",food,490.86,953
+36,Cheese - Brie Roitelet,bazaar,412.5,974
+37,Chocolate Liqueur - Godet White,pets,320.41,31
+38,Ice Cream - Vanilla,food,488.21,832
+39,"Lamb - Whole, Frozen",pets,405.06,27
+40,Table Cloth 72x144 White,food,536.81,385
+41,Whmis - Spray Bottle Trigger,cosmetic,278.79,198
+42,Raspberries - Frozen,fishing,502.12,592
+43,Jameson - Irish Whiskey,cosmetic,744.01,940
+44,Wine - Touraine Azay - Le - Rideau,pets,889.7,962
+45,Wine - Mondavi Coastal Private,bazaar,89.2,673
+46,Dip - Tapenade,toys,53.44,67
+47,"Juice - V8, Tomato",food,631.66,195
+48,Cake - Night And Day Choclate,cleaning,867.57,911
+49,Pate - Cognac,cleaning,960.35,559
+50,Lettuce - California Mix,bazaar,868.32,615
+51,Garlic Powder,cosmetic,518.5,286
+52,"Zucchini - Mini, Green",food,714.58,138
+53,Compound - Strawberry,cosmetic,597.91,567
+54,Glycerine,toys,122.71,814
+55,Scallops - 20/30,bazaar,606.77,985
+56,Lamb Leg - Bone - In Nz,bazaar,998.7,122
+57,Garam Masala Powder,food,588.21,146
+58,Lamb Rack Frenched Australian,food,328.7,500
+59,"Chilli Paste, Sambal Oelek",food,742.89,798
+60,Truffle Shells - Semi - Sweet,fishing,64.41,632
+61,Wild Boar - Tenderloin,fishing,676.73,27
+62,"Chicken - Thigh, Bone In",pets,640.73,812
+63,"Wine - White, Gewurtzraminer",fishing,823.53,675
+64,Cup - Translucent 7 Oz Clear,fishing,286.31,785
+65,"Chocolate - Pistoles, Lactee, Milk",fishing,81.56,315
+66,"Sauce - Soya, Light",food,4.26,262
+67,Chocolate Bar - Smarties,cleaning,579.43,629
+68,Oil - Margarine,cleaning,497.17,926
+69,"Nut - Almond, Blanched, Whole",bazaar,756.91,296
+70,"Pepsi, 355 Ml",pets,952.74,919
+71,"Pepper - Green, Chili",food,421.62,560
+72,"Bread - White, Sliced",pets,643.37,121
+73,Wine - Lou Black Shiraz,bazaar,192.3,217
+74,Oneshot Automatic Soap System,food,484.55,226
+75,Lobster - Tail 6 Oz,cleaning,111.3,975
+76,Beef - Striploin,toys,479.45,250
+77,Lid Tray - 16in Dome,pets,840.95,294
+78,Mayonnaise - Individual Pkg,food,327.09,639
+79,"Wine - White, Colubia Cresh",toys,95.46,967
+80,Extract - Lemon,cosmetic,289.26,546
+81,Tuna - Sushi Grade,fishing,915.47,455
+82,"Glass - Wine, Plastic, Clear 5 Oz",bazaar,938.17,99
+83,Pork - Belly Fresh,bazaar,572.36,591
+84,Scallops - 10/20,food,261.76,834
+85,Tea - Herbal Orange Spice,fishing,221.2,884
+86,Soup - Base Broth Beef,bazaar,6.28,233
+87,Chocolate - Mi - Amere Semi,fishing,987.71,657
+88,Sprouts - Corn,food,312.64,148
+89,Cookies Cereal Nut,fishing,49.65,573
+90,"Juice - Pineapple, 48 Oz",pets,225.11,436
+91,Icecream - Dstk Super Cone,pets,755.8,234
+92,Sprouts - Peppercress,pets,284.98,107
+93,"Sauce - Soya, Light",toys,475.71,108
+94,"Tray - Foam, Square 4 - S",cosmetic,349.46,976
+95,Wiberg Super Cure,cleaning,880.91,341
+96,Watercress,food,719.45,674
+97,Cookie Dough - Peanut Butter,pets,323.19,670
+98,V8 Splash Strawberry Banana,fishing,163.42,911
+99,Black Currants,toys,411.95,733
+100,Yeast Dry - Fleischman,cosmetic,919.03,768
+101,Bread - White Epi Baguette,pets,67.59,714
+102,Gherkin,food,223.04,268
+103,Goldschalger,food,336.37,77
+104,Pork - Bones,cosmetic,878.59,933
+105,Sauce - Vodka Blush,cleaning,666.34,189
+106,Alize Sunset,food,486.64,795
+107,Sprouts - Alfalfa,food,108.11,519
+108,Cod - Fillets,cleaning,925.81,996
+109,"Doilies - 10, Paper",cosmetic,547.59,500
+110,Cumin - Whole,cleaning,835.93,75
+111,Longan,fishing,23.25,450
+112,Pork - Liver,toys,921.0,215
+113,"Juice - Apple, 1.36l",cosmetic,132.4,23
+114,Latex Rubber Gloves Size 9,cleaning,574.24,852
+115,"Soup - Knorr, Ministrone",food,584.99,301
+116,"Wine - White, Chardonnay",bazaar,519.23,457
+117,Bag Stand,bazaar,4.2,72
+118,Bread - Pumpernickel,fishing,693.6,631
+119,Bread Sour Rolls,bazaar,201.21,528
+120,"Tart Shells - Savory, 4",toys,866.27,265
+121,Eggplant - Asian,pets,898.9,855
+122,Sproutsmustard Cress,bazaar,582.47,790
+123,Wine - Pinot Noir Latour,food,999.14,495
+124,"Nestea - Ice Tea, Diet",fishing,833.54,232
+125,Napkin White,fishing,741.48,22
+126,Cheese - Fontina,pets,624.11,792
+127,Cheese - Stilton,cosmetic,824.55,842
+128,"Peas - Pigeon, Dry",food,156.92,712
+129,"Lettuce - Mini Greens, Whole",cleaning,624.15,974
+130,"Yogurt - Raspberry, 175 Gr",pets,537.37,794
+131,Cloves - Whole,cleaning,115.13,560
+132,Chocolate Bar - Smarties,cleaning,952.52,888
+133,Water - Tonic,food,805.53,166
+134,"Chilli Paste, Sambal Oelek",fishing,308.06,891
+135,Pizza Pizza Dough,bazaar,461.38,882
+136,"Capon - Breast, Wing On",bazaar,493.08,110
+137,"Wine - Red, Mouton Cadet",pets,826.7,843
+138,"Nut - Walnut, Chopped",fishing,804.42,868
+139,Swiss Chard - Red,bazaar,821.33,223
+140,Pastry - Banana Tea Loaf,food,234.71,717
+141,Petit Baguette,cleaning,488.4,105
+142,"Coconut - Shredded, Unsweet",cosmetic,912.13,322
+143,Appetizer - Assorted Box,cleaning,210.78,1
+144,Banana - Green,food,276.69,19
+145,Instant Coffee,fishing,562.72,149
+146,Pomello,food,711.77,579
+147,Pasta - Fusili Tri - Coloured,food,378.7,816
+148,"Tart Shells - Sweet, 2",cosmetic,317.6,596
+149,Crackers Cheez It,cleaning,711.56,878
+150,Duck - Whole,fishing,285.55,286
+151,Salmon - Sockeye Raw,cosmetic,388.07,910
+152,Lettuce - Curly Endive,fishing,466.08,590
+153,Oats Large Flake,toys,998.81,924
+154,Blouse / Shirt / Sweater,toys,645.09,205
+155,"Dill - Primerba, Paste",bazaar,283.09,359
+156,Wine - Wyndham Estate Bin 777,pets,979.27,629
+157,"Chestnuts - Whole,canned",fishing,734.06,825
+158,Grapefruit - Pink,pets,372.42,937
+159,Butter Balls Salted,cosmetic,454.84,512
+160,Tobasco Sauce,toys,639.64,362
+161,"Beef - Rib Roast, Cap On",toys,137.1,900
+162,Ice Cream - Vanilla,fishing,401.95,692
+163,Corn - Mini,food,564.42,870
+164,Mushrooms - Honey,bazaar,110.78,698
+165,Cake - Bande Of Fruit,food,104.99,125
+166,Peppercorns - Green,cosmetic,783.65,105
+167,"Cheese - Havarti, Salsa",fishing,280.0,675
+168,Cookies Cereal Nut,bazaar,324.68,184
+169,Honey - Lavender,cosmetic,454.14,387
+170,Nut - Macadamia,toys,841.7,51
+171,"Spoon - Soup, Plastic",pets,801.31,549
+172,Bread - Hamburger Buns,bazaar,210.72,887
+173,Muffin Mix - Corn Harvest,bazaar,736.6,806
+174,French Pastry - Mini Chocolate,fishing,70.71,739
+175,Tea - Black Currant,food,184.25,589
+176,Tea - Decaf Lipton,pets,865.77,279
+177,Beef Striploin Aaa,food,871.32,296
+178,Tofu - Soft,food,427.83,929
+179,Ecolab - Lime - A - Way 4/4 L,pets,977.03,332
+180,Mcgillicuddy Vanilla Schnap,pets,261.13,615
+181,Green Tea Refresher,cleaning,736.51,441
+182,Appetizer - Smoked Salmon / Dill,cleaning,495.05,828
+183,Tumeric,cleaning,979.91,636
+184,Papadam,bazaar,92.04,607
+185,Mackerel Whole Fresh,fishing,678.13,762
+186,Oranges,bazaar,471.77,768
+187,"Cherries - Bing, Canned",cosmetic,57.14,493
+188,Bread - Malt,pets,895.76,10
+189,Milk - 1%,food,855.21,646
+190,Asparagus - Frozen,cleaning,609.25,472
+191,Grapefruit - White,cosmetic,931.19,620
+192,Kohlrabi,bazaar,979.44,584
+193,Ginger - Crystalized,fishing,292.99,89
+194,Vacuum Bags 12x16,pets,219.25,104
+195,Beans - Soya Bean,cosmetic,754.11,570
+196,Kiwi Gold Zespri,bazaar,974.16,279
+197,Cream - 10%,toys,326.26,105
+198,Juice - Lemon,fishing,260.98,462
+199,Container - Clear 16 Oz,fishing,532.58,850
+200,Cloves - Ground,pets,313.64,611
+201,Filter - Coffee,fishing,303.41,314
+202,Bagel - Sesame Seed Presliced,cleaning,627.02,352
+203,Towel Multifold,cosmetic,995.43,369
+204,Milk - 2%,fishing,613.28,573
+205,Soup - Campbells,pets,957.19,2
+206,"Pasta - Detalini, White, Fresh",bazaar,862.86,245
+207,Muffin Mix - Corn Harvest,cosmetic,411.8,212
+208,Puree - Blackcurrant,toys,31.29,693
+209,Olives - Stuffed,fishing,668.19,325
+210,Sprouts - Onion,bazaar,511.02,543
+211,Wine - Remy Pannier Rose,bazaar,88.48,912
+212,Sauerkraut,cosmetic,109.84,38
+213,Bread - Pumpernickel,toys,920.39,461
+214,Milk 2% 500 Ml,toys,707.25,950
+215,Glucose,food,496.35,658
+216,Bar Bran Honey Nut,toys,344.49,501
+217,Gatorade - Fruit Punch,fishing,841.9,607
+218,Pancetta,bazaar,896.72,885
+219,V8 - Tropical Blend,pets,242.35,377
+220,Sauce - Sesame Thai Dressing,fishing,892.53,461
+221,Puff Pastry - Slab,food,175.48,578
+222,"Tendrils - Baby Pea, Organic",food,23.05,744
+223,Transfer Sheets,food,578.33,979
+224,Island Oasis - Peach Daiquiri,pets,987.68,235
+225,Vinegar - Balsamic,pets,721.87,767
+226,"Chicken - Base, Ultimate",cosmetic,828.67,622
+227,Bread - Pain Au Liat X12,pets,704.94,368
+228,Rabbit - Saddles,food,149.51,577
+229,Absolut Citron,toys,174.72,902
+230,Sobe - Orange Carrot,cosmetic,143.96,632
+231,Wine - Dubouef Macon - Villages,cosmetic,341.74,549
+232,"Lamb - Leg, Diced",fishing,227.44,821
+233,Wine - Lou Black Shiraz,fishing,114.19,150
+234,Beer - Blue Light,cleaning,517.6,242
+235,Beer - True North Strong Ale,food,978.73,689
+236,Beans - Butter Lrg Lima,toys,630.91,46
+237,"Stock - Beef, Brown",fishing,580.86,806
+238,Lobak,cosmetic,897.8,751
+239,Flour - Whole Wheat,food,766.48,824
+240,Tomato - Green,cleaning,719.3,687
+241,Wine - Muscadet Sur Lie,bazaar,270.58,146
+242,Flour - So Mix Cake White,pets,169.64,454
+243,Bay Leaf Fresh,toys,294.59,859
+244,Cumin - Whole,cosmetic,38.53,969
+245,Onions Granulated,food,474.04,228
+246,Grapes - Red,food,770.66,495
+247,Bagel - Everything Presliced,cleaning,915.22,775
+248,Lamb Shoulder Boneless Nz,fishing,74.81,943
+249,"Leeks - Baby, White",pets,377.92,603
+250,Muffin Batt - Ban Dream Zero,fishing,571.93,450
+251,"Pasta - Fett Alfredo, Single Serve",pets,718.49,23
+252,Prunes - Pitted,toys,573.39,535
+253,Wonton Wrappers,pets,680.75,647
+254,"Cheese - Woolwich Goat, Log",bazaar,904.22,685
+255,Sole - Iqf,food,545.54,730
+256,Grapes - Black,cosmetic,96.19,929
+257,Mangostein,toys,741.98,786
+258,Sprouts - Onion,cosmetic,532.03,834
+259,Cookies - Englishbay Oatmeal,bazaar,38.02,859
+260,Sun - Dried Tomatoes,fishing,442.6,755
+261,Tea - Herbal I Love Lemon,cosmetic,213.89,177
+262,Wine - Fume Blanc Fetzer,cosmetic,840.45,246
+263,Chips - Doritos,pets,242.29,924
+264,"Ranchero - Primerba, Paste",cleaning,22.69,352
+265,Muffin - Mix - Creme Brule 15l,cosmetic,488.02,608
+266,Sauce - Demi Glace,bazaar,157.1,710
+267,Wine - Rhine Riesling Wolf Blass,food,861.17,882
+268,Bread - Onion Focaccia,toys,857.23,526
+269,"Cup - 6oz, Foam",food,256.53,134
+270,"Shrimp, Dried, Small / Lb",fishing,785.91,591
+271,Milk - Buttermilk,toys,675.89,22
+272,Cup - 8oz Coffee Perforated,cleaning,622.62,483
+273,Water - Tonic,food,526.99,615
+274,Cheese - Roquefort Pappillon,cosmetic,78.1,466
+275,"Oregano - Dry, Rubbed",cosmetic,438.18,827
+276,Pepper - Orange,fishing,321.91,64
+277,Sugar - Crumb,toys,999.42,926
+278,Cheese - Valancey,bazaar,43.25,285
+279,General Purpose Trigger,bazaar,400.82,450
+280,"Pork - Back, Long Cut, Boneless",fishing,43.93,526
+281,Bananas,pets,190.02,813
+282,Tamarind Paste,food,725.0,808
+283,Beef - Kobe Striploin,toys,478.33,459
+284,Aspic - Amber,food,510.23,807
+285,"Mushroom - Oyster, Fresh",cleaning,410.12,941
+286,Onions - Red,toys,52.09,593
+287,Beef - Striploin,pets,438.49,68
+288,Cookies - Englishbay Chochip,fishing,487.09,51
+289,Jack Daniels,cosmetic,458.07,903
+290,Snapple - Iced Tea Peach,toys,36.24,245
+291,"Pork - Back, Short Cut, Boneless",fishing,288.38,889
+292,Appetiser - Bought,toys,313.06,258
+293,"Lamb - Leg, Bone In",bazaar,965.73,358
+294,"Chocolate - Semi Sweet, Calets",pets,73.63,445
+295,Wine - Remy Pannier Rose,toys,972.14,611
+296,Curry Powder,food,66.6,776
+297,"Crab - Dungeness, Whole",cleaning,90.01,648
+298,Pastry - Cheese Baked Scones,pets,465.66,300
+299,Filo Dough,fishing,48.68,988
+300,Sauce - Fish 25 Ozf Bottle,pets,501.63,462
+301,"Hickory Smoke, Liquid",bazaar,338.44,855
+302,Tomatoes - Grape,cosmetic,984.29,973
+303,"Soup - Knorr, Chicken Noodle",bazaar,26.84,441
+304,Wine - Coteaux Du Tricastin Ac,toys,468.04,367
+305,Dry Ice,pets,726.59,62
+306,Flour - Strong Pizza,toys,196.14,54
+307,"Mushrooms - Black, Dried",fishing,436.8,744
+308,"Coke - Diet, 355 Ml",bazaar,986.3,276
+309,Beans - French,food,790.57,616
+310,Banana - Green,toys,834.41,929
+311,Liners - Baking Cups,toys,140.67,86
+312,Cakes Assorted,food,557.64,96
+313,Apple - Macintosh,pets,528.19,297
+314,Mcgillicuddy Vanilla Schnap,fishing,124.73,981
+315,Bamboo Shoots - Sliced,fishing,910.9,248
+316,Flax Seed,bazaar,731.9,925
+317,"Veal - Leg, Provimi - 50 Lb Max",food,82.54,390
+318,"Peas - Pigeon, Dry",food,52.66,197
+319,Island Oasis - Raspberry,cleaning,699.23,82
+320,Muffin Batt - Choc Chk,bazaar,964.0,915
+321,"Potatoes - Purple, Organic",toys,565.85,132
+322,Vinegar - Red Wine,toys,335.42,135
+323,Foie Gras,fishing,465.18,998
+324,Venison - Ground,fishing,202.84,578
+325,Wine - Sauvignon Blanc Oyster,fishing,535.81,644
+326,"Mushroom - Trumpet, Dry",pets,630.97,583
+327,Pepper - Chili Powder,fishing,679.88,778
+328,Squash - Butternut,food,987.3,729
+329,Chocolate - Chips Compound,bazaar,336.48,775
+330,"Tart Shells - Sweet, 2",bazaar,328.15,204
+331,Garbag Bags - Black,fishing,128.67,366
+332,Mayonnaise - Individual Pkg,pets,141.88,328
+333,Arrowroot,toys,810.79,996
+334,Green Scrubbie Pad H.duty,toys,412.52,806
+335,Snapple Raspberry Tea,cosmetic,187.12,15
+336,V8 Pet,bazaar,572.97,251
+337,French Kiss Vanilla,fishing,435.39,933
+338,Leeks - Large,food,922.64,99
+339,Wine - Coteaux Du Tricastin Ac,toys,402.85,286
+340,Browning Caramel Glace,food,284.06,900
+341,Wine - Pinot Noir Stoneleigh,cosmetic,414.45,926
+342,Cheese - Cheddarsliced,food,97.77,319
+343,Peas - Frozen,fishing,115.53,670
+344,Pickles - Gherkins,toys,775.67,735
+345,Blouse / Shirt / Sweater,toys,757.24,17
+346,Muffin Hinge - 211n,bazaar,164.61,825
+347,Lamb - Sausage Casings,cosmetic,830.82,514
+348,Glycerine,bazaar,437.2,353
+349,Salt And Pepper Mix - Black,fishing,795.4,217
+350,"Bread - Bagels, Mini",pets,31.46,471
+351,Juice - Cranberry 284ml,food,506.87,906
+352,Curry Powder Madras,food,572.82,1000
+353,"Rum - Dark, Bacardi, Black",cleaning,230.22,577
+354,Pineapple - Regular,toys,270.67,809
+355,Pheasants - Whole,toys,180.96,170
+356,Foam Espresso Cup Plain White,bazaar,699.69,757
+357,"Juice - Tomato, 48 Oz",pets,444.17,290
+358,Gatorade - Lemon Lime,cosmetic,934.82,600
+359,Browning Caramel Glace,toys,878.24,362
+360,Kiwi,toys,575.34,289
+361,Sauce - Cranberry,pets,53.78,605
+362,Tea - Black Currant,bazaar,335.2,661
+363,Banana,cleaning,169.35,194
+364,Croissants Thaw And Serve,cosmetic,332.14,579
+365,Cheese Cheddar Processed,bazaar,764.13,815
+366,Squid - Tubes / Tenticles 10/20,fishing,20.29,240
+367,French Pastries,fishing,65.79,948
+368,Cheese - Cream Cheese,pets,232.11,44
+369,Coffee - Irish Cream,pets,765.59,600
+370,Oil - Pumpkinseed,fishing,432.66,682
+371,"Brocolinni - Gaylan, Chinese",cosmetic,147.89,704
+372,Sugar - Icing,cleaning,760.75,962
+373,Wine - Magnotta - Cab Franc,fishing,741.86,204
+374,"Tart Shells - Sweet, 3",bazaar,129.86,199
+375,Steampan - Foil,pets,766.11,573
+376,Cookie - Oatmeal,cosmetic,212.68,603
+377,"Jam - Strawberry, 20 Ml Jar",toys,8.75,819
+378,Bread - Italian Sesame Poly,fishing,38.26,442
+379,Cake - Cheese Cake 9 Inch,bazaar,653.09,425
+380,Wine - Magnotta - Bel Paese White,cosmetic,571.39,664
+381,Pepper - Jalapeno,fishing,403.15,72
+382,"Tart Shells - Sweet, 3",cleaning,680.07,955
+383,Wine - Hardys Bankside Shiraz,cleaning,119.97,416
+384,Sugar - Fine,cleaning,618.64,435
+385,"Pepper - Black, Ground",bazaar,863.58,711
+386,"Mushroom - Morels, Dry",fishing,985.67,602
+387,Brandy - Bar,bazaar,723.29,278
+388,Tart - Lemon,pets,981.16,235
+389,Pear - Asian,fishing,125.04,290
+390,Crawfish,bazaar,815.31,718
+391,Taro Root,toys,31.34,282
+392,Flour - Fast / Rapid,fishing,16.23,454
+393,"Oranges - Navel, 72",fishing,854.05,436
+394,"Fish - Halibut, Cold Smoked",fishing,395.22,769
+395,Salt - Kosher,fishing,360.76,137
+396,Veal - Knuckle,fishing,628.82,732
+397,Coffee Caramel Biscotti,pets,286.74,193
+398,Veal - Bones,food,753.41,68
+399,Danishes - Mini Raspberry,bazaar,624.32,209
+400,Wine - Valpolicella Masi,food,343.7,757
+401,Chocolate - Dark Callets,bazaar,612.88,390
+402,Tuna - Bluefin,food,437.13,584
+403,Flour Pastry Super Fine,pets,485.3,521
+404,Wine - Sauvignon Blanc,fishing,422.96,99
+405,Coffee Cup 16oz Foam,cleaning,806.25,852
+406,Sage - Rubbed,toys,219.16,517
+407,Energy Drink - Redbull 355ml,pets,721.52,704
+408,Pastry - Baked Scones - Mini,cleaning,425.56,542
+409,Pastry - Banana Muffin - Mini,cleaning,994.18,455
+410,Tart - Pecan Butter Squares,cosmetic,505.81,982
+411,Puree - Passion Fruit,food,245.68,284
+412,Grenadillo,food,911.98,954
+413,Cornflakes,cleaning,598.86,745
+414,Tomatoes Tear Drop,toys,51.22,779
+415,"Beef - Tenderlion, Center Cut",toys,46.64,441
+416,Creme De Cacao Mcguines,food,167.74,92
+417,Noodles - Steamed Chow Mein,food,872.08,92
+418,Vinegar - Raspberry,fishing,49.09,301
+419,Jam - Apricot,toys,972.52,215
+420,Heavy Duty Dust Pan,pets,100.19,854
+421,Flavouring Vanilla Artificial,pets,600.71,648
+422,Cake - French Pear Tart,fishing,976.12,381
+423,"Tart Shells - Barquettes, Savory",fishing,864.15,249
+424,Bread Base - Toscano,bazaar,323.5,774
+425,"Tabasco Sauce, 2 Oz",cleaning,643.72,373
+426,Chocolate - Milk,toys,35.46,741
+427,Poppy Seed,cleaning,825.17,222
+428,Cut Wakame - Hanawakaba,cosmetic,49.28,134
+429,Wine - Cotes Du Rhone,toys,659.55,112
+430,Chocolate - Chips Compound,toys,830.21,610
+431,Lettuce - Sea / Sea Asparagus,pets,284.71,411
+432,Beef - Ground Lean Fresh,food,45.94,37
+433,Sobe - Berry Energy,food,608.65,947
+434,Tray - 12in Rnd Blk,cosmetic,12.68,838
+435,Coffee Cup 12oz 5342cd,fishing,4.83,605
+436,Lettuce - Radicchio,pets,126.36,184
+437,Pork - Ground,food,621.8,897
+438,Island Oasis - Pina Colada,pets,267.61,581
+439,Parsley - Fresh,fishing,585.25,517
+440,French Pastry - Mini Chocolate,food,941.61,16
+441,Coriander - Ground,pets,638.36,434
+442,"Wine - White, Riesling, Semi - Dry",food,80.56,191
+443,Tuna - Loin,pets,289.83,961
+444,Hinge W Undercut,bazaar,549.48,366
+445,Lid - 0090 Clear,fishing,89.98,330
+446,"Basil - Primerba, Paste",toys,856.23,335
+447,"Soup - Beef Conomme, Dry",fishing,774.37,802
+448,Cookies - Amaretto,bazaar,810.73,864
+449,"Wine - White, Schroder And Schyl",toys,992.13,241
+450,Cookie Dough - Double,toys,92.02,443
+451,Ecolab Silver Fusion,cosmetic,580.93,764
+452,"Veal - Tenderloin, Untrimmed",cleaning,904.66,115
+453,Pork - Sausage Casing,bazaar,853.01,446
+454,Chinese Foods - Chicken Wing,food,361.01,115
+455,Onion - Dried,fishing,901.66,907
+456,Capers - Pickled,food,647.4,234
+457,Flower - Potmums,toys,79.18,864
+458,Lamb - Loin Chops,cleaning,606.36,390
+459,"Juice - Pineapple, 48 Oz",fishing,910.59,785
+460,Shrimp - Black Tiger 8 - 12,fishing,517.35,619
+461,Wine - Rhine Riesling Wolf Blass,pets,848.31,221
+462,Fork - Plastic,bazaar,386.8,860
+463,Marzipan 50/50,cosmetic,881.5,987
+464,Hipnotiq Liquor,food,290.03,265
+465,Avocado,pets,52.04,712
+466,Wild Boar - Tenderloin,fishing,905.73,445
+467,"Veal - Brisket, Provimi, Bone - In",cleaning,791.87,742
+468,Gatorade - Fruit Punch,cleaning,345.28,872
+469,Spice - Montreal Steak Spice,pets,32.51,89
+470,"Pasta - Elbows, Macaroni, Dry",bazaar,256.92,842
+471,Muffin - Blueberry Individual,fishing,176.48,976
+472,"Wine - Red, Cooking",pets,504.33,615
+473,"Basil - Dry, Rubbed",fishing,381.23,264
+474,"Syrup - Monin, Amaretta",food,503.87,187
+475,Cookies - Englishbay Chochip,bazaar,158.72,433
+476,Cabbage - Red,toys,328.01,116
+477,Celery,cosmetic,104.73,153
+478,Pimento - Canned,cleaning,203.98,266
+479,Soup - Campbells - Chicken Noodle,fishing,880.65,159
+480,Olives - Kalamata,toys,981.31,636
+481,Soup - Campbells Beef Stew,pets,158.91,40
+482,Plastic Wrap,food,780.8,884
+483,"Tea - Darjeeling, Azzura",toys,256.99,559
+484,"Wine - Red, Colio Cabernet",toys,604.64,84
+485,Ostrich - Fan Fillet,bazaar,96.41,808
+486,Tea - Lemon Scented,food,699.56,817
+487,Gatorade - Xfactor Berry,food,457.82,185
+488,Baking Soda,pets,499.79,443
+489,Sage - Rubbed,cosmetic,744.17,675
+490,Hagen Daza - Dk Choocolate,cleaning,356.61,143
+491,Lamb Rack Frenched Australian,fishing,762.21,16
+492,Napkin - Beverage 1 Ply,fishing,985.44,191
+493,Coffee Decaf Colombian,toys,74.66,524
+494,Onions - Vidalia,cosmetic,484.02,418
+495,Bagel - Whole White Sesame,bazaar,953.34,541
+496,Puff Pastry - Slab,fishing,312.78,990
+497,Sambuca Cream,toys,312.65,289
+498,"Oil - Shortening,liqud, Fry",cleaning,861.74,317
+499,Chocolate - Mi - Amere Semi,food,710.86,428
+500,Island Oasis - Magarita Mix,pets,784.66,5
+501,Scallops 60/80 Iqf,bazaar,202.41,713
+502,Worcestershire Sauce,pets,675.14,799
+503,Crawfish,pets,9.25,892
+504,Papadam,cosmetic,389.3,422
+505,Spice - Montreal Steak Spice,pets,967.8,818
+506,Five Alive Citrus,cleaning,702.58,117
+507,Pizza Pizza Dough,food,236.66,502
+508,"Apple - Delicious, Red",cosmetic,165.78,650
+509,Oven Mitts 17 Inch,food,844.83,167
+510,Arctic Char - Fillets,food,582.17,625
+511,Sword Pick Asst,pets,275.84,143
+512,Pastry - Apple Muffins - Mini,toys,357.04,88
+513,Mace,fishing,924.86,618
+514,Versatainer Nc - 9388,food,269.72,778
+515,Mace Ground,toys,633.25,820
+516,Soup - Base Broth Chix,cosmetic,614.05,828
+517,Bacardi Breezer - Strawberry,pets,238.78,787
+518,Wine - Penfolds Koonuga Hill,bazaar,862.37,991
+519,Cheese - Provolone,fishing,184.59,622
+520,Sorrel - Fresh,cosmetic,420.2,243
+521,Sugar - Individual Portions,fishing,490.83,563
+522,"Coke - Diet, 355 Ml",bazaar,299.06,696
+523,Lychee,cosmetic,569.03,233
+524,Papadam,pets,101.7,593
+525,Tea - Decaf 1 Cup,toys,422.7,547
+526,Mayonnaise - Individual Pkg,food,526.34,263
+527,Alize Red Passion,toys,981.16,757
+528,Muffin - Bran Ind Wrpd,fishing,190.23,966
+529,Eggroll,toys,79.29,900
+530,"Pasta - Penne, Lisce, Dry",toys,587.15,157
+531,True - Vue Containers,cleaning,983.81,600
+532,Cheese - Mozzarella,fishing,276.52,940
+533,Versatainer Nc - 8288,food,150.15,736
+534,Hot Chocolate - Individual,cosmetic,487.9,944
+535,Sage - Ground,toys,188.91,187
+536,Meldea Green Tea Liquor,pets,115.67,600
+537,Pastry - Apple Large,toys,377.31,124
+538,"C - Plus, Orange",pets,317.82,399
+539,Knife Plastic - White,toys,403.68,660
+540,Plasticspoonblack,cosmetic,816.33,399
+541,Energy Drink,cleaning,460.12,377
+542,Soup - Campbells Mac N Cheese,bazaar,895.37,538
+543,Pernod,fishing,23.81,743
+544,"Cod - Salted, Boneless",toys,632.0,684
+545,Chips Potato Salt Vinegar 43g,cosmetic,930.81,581
+546,Rice - Wild,food,595.15,427
+547,"Loaf Pan - 2 Lb, Foil",bazaar,598.03,468
+548,Foil - Round Foil,cleaning,893.06,267
+549,Chevril,cosmetic,336.4,839
+550,Table Cloth 54x54 White,cleaning,349.96,491
+551,Capicola - Hot,cosmetic,181.62,451
+552,Tomatoes - Orange,cleaning,84.14,936
+553,Juice - Apple 284ml,toys,473.85,109
+554,Wine - Delicato Merlot,fishing,257.19,423
+555,Bread - Sour Batard,toys,889.73,879
+556,Coffee Caramel Biscotti,cosmetic,892.57,147
+557,Bread - Multigrain,fishing,408.02,949
+558,"Bread - Roll, Italian",food,575.61,411
+559,Appetizer - Tarragon Chicken,cosmetic,302.8,287
+560,Soup - Campbells Chili Veg,fishing,999.33,469
+561,Bread - Sour Batard,food,25.44,276
+562,"Nut - Cashews, Whole, Raw",food,737.63,857
+563,Compound - Passion Fruit,food,640.53,886
+564,"Wine - White, Cooking",pets,736.81,964
+565,Arrowroot,fishing,986.66,970
+566,"Bread - Bagels, Mini",cleaning,617.9,44
+567,"Beans - Long, Chinese",cleaning,313.35,267
+568,Towel Multifold,pets,851.63,184
+569,Sauerkraut,bazaar,326.21,152
+570,Trueblue - Blueberry Cranberry,toys,799.31,904
+571,Maintenance Removal Charge,cleaning,882.72,41
+572,"Pasta - Lasagna, Dry",pets,590.55,234
+573,Tomatoes - Orange,cleaning,653.13,599
+574,Potatoes - Idaho 80 Count,food,76.9,912
+575,Beef - Top Sirloin - Aaa,fishing,645.96,860
+576,Tomato Puree,toys,652.31,783
+577,Vinegar - White Wine,bazaar,195.59,106
+578,"Lamb - Pieces, Diced",cleaning,365.18,632
+579,Celery Root,fishing,782.66,507
+580,Cheese - Goat With Herbs,food,325.07,833
+581,Herb Du Provence - Primerba,pets,293.69,116
+582,Foil Wrap,cosmetic,392.59,824
+583,Peach - Halves,cosmetic,764.41,825
+584,Goat - Whole Cut,fishing,940.28,847
+585,Soup - Campbells Broccoli,toys,394.7,867
+586,Wine - Fontanafredda Barolo,cleaning,876.3,853
+587,Brandy - Bar,pets,943.04,868
+588,Bag - Regular Kraft 20 Lb,pets,653.78,374
+589,Yogurt - Assorted Pack,pets,500.4,33
+590,Samosa - Veg,cosmetic,945.35,776
+591,Rice - Brown,cosmetic,438.63,271
+592,Crab - Meat,cosmetic,716.99,888
+593,Flour - Pastry,food,485.23,50
+594,French Pastry - Mini Chocolate,toys,624.18,145
+595,Burger Veggie,cosmetic,436.83,178
+596,Foam Dinner Plate,fishing,416.28,854
+597,Cake - Bande Of Fruit,fishing,297.47,362
+598,Carbonated Water - Peach,cosmetic,869.77,89
+599,Wine - Fino Tio Pepe Gonzalez,bazaar,267.18,989
+600,Flour - Cake,pets,77.69,288
+601,Carbonated Water - Peach,bazaar,998.47,319
+602,Wine - Toasted Head,cosmetic,279.48,210
+603,Broccoli - Fresh,cosmetic,660.73,616
+604,Cheese - Cream Cheese,bazaar,275.3,914
+605,Hipnotiq Liquor,cosmetic,37.37,497
+606,Veal - Ground,cleaning,961.94,696
+607,Paper Cocktail Umberlla 80 - 180,food,180.73,236
+608,Munchies Honey Sweet Trail Mix,cosmetic,492.89,902
+609,Sun - Dried Tomatoes,bazaar,711.4,455
+610,Glass - Juice Clear 5oz 55005,toys,679.87,268
+611,"Water, Tap",cleaning,327.85,939
+612,Bols Melon Liqueur,food,512.07,48
+613,Chicken - Whole Roasting,fishing,46.89,646
+614,Propel Sport Drink,toys,938.21,295
+615,"Pork - Back, Short Cut, Boneless",food,516.78,609
+616,Chicken - Wieners,cleaning,86.98,710
+617,Beer - Sleeman Fine Porter,fishing,901.28,560
+618,"Wine - White, Mosel Gold",cleaning,25.31,461
+619,Lentils - Green Le Puy,bazaar,318.54,571
+620,Scallops - 20/30,cleaning,922.59,582
+621,Puree - Passion Fruit,cosmetic,29.44,694
+622,"Pasta - Lasagna Noodle, Frozen",food,799.61,220
+623,Cleaner - Lime Away,cleaning,11.52,518
+624,Marzipan 50/50,cosmetic,709.71,229
+625,"Potatoes - Purple, Organic",pets,331.28,703
+626,"Thyme - Lemon, Fresh",cleaning,154.21,264
+627,Beef - Kobe Striploin,fishing,502.18,679
+628,Mix - Cappucino Cocktail,cosmetic,477.47,466
+629,Beef - Ox Tongue,bazaar,277.72,288
+630,Cod - Fillets,cosmetic,967.65,632
+631,Cake - Lemon Chiffon,bazaar,410.51,626
+632,Arizona - Green Tea,cosmetic,773.88,440
+633,Spice - Paprika,bazaar,400.16,998
+634,Eggwhite Frozen,pets,926.45,899
+635,Calvados - Boulard,food,115.06,220
+636,Chip - Potato Dill Pickle,bazaar,292.02,751
+637,Jameson Irish Whiskey,cleaning,96.01,525
+638,Brandy - Bar,bazaar,748.52,914
+639,Turnip - Mini,bazaar,289.65,984
+640,Burger Veggie,bazaar,234.73,613
+641,Puree - Mocha,fishing,383.91,906
+642,Lemon Pepper,food,386.1,425
+643,Guava,food,950.59,999
+644,Huck Towels White,bazaar,796.53,729
+645,"Onions - Dried, Chopped",pets,313.24,867
+646,"Napkin - Cocktail,beige 2 - Ply",bazaar,453.13,304
+647,"Chocolate - Semi Sweet, Calets",fishing,11.32,896
+648,"Wine - Red, Mosaic Zweigelt",food,202.38,960
+649,Pie Filling - Cherry,cosmetic,415.67,29
+650,"Bar Mix - Pina Colada, 355 Ml",pets,100.22,789
+651,Brandy - Bar,bazaar,243.84,666
+652,Lotus Rootlets - Canned,food,948.25,908
+653,Beets - Golden,cosmetic,894.96,366
+654,"Wine - Red, Lurton Merlot De",cosmetic,368.88,416
+655,Pastry - Baked Cinnamon Stick,cleaning,25.84,491
+656,Napkin Colour,toys,225.15,499
+657,Cinnamon - Ground,toys,290.28,24
+658,Ginger - Ground,toys,613.2,916
+659,Lettuce - Red Leaf,cosmetic,997.32,155
+660,Dawn Professionl Pot And Pan,cleaning,144.06,262
+661,Wine - Malbec Trapiche Reserve,fishing,549.84,73
+662,Blackberries,cleaning,852.1,753
+663,Lid Coffee Cup 8oz Blk,pets,507.69,558
+664,Cinnamon Rolls,toys,607.72,864
+665,Container - Clear 16 Oz,pets,305.74,386
+666,Pastry - Cheese Baked Scones,cleaning,217.37,660
+667,Bacardi Limon,fishing,597.51,281
+668,Shopper Bag - S - 4,pets,707.27,704
+669,"Ecolab - Orange Frc, Cleaner",cleaning,305.12,48
+670,"Onions - Dried, Chopped",fishing,120.45,204
+671,Tia Maria,pets,305.91,298
+672,Glove - Cutting,bazaar,576.0,155
+673,Sauce - Fish 25 Ozf Bottle,cosmetic,296.81,768
+674,Ocean Spray - Kiwi Strawberry,cleaning,625.32,979
+675,Beer - Tetleys,cleaning,684.43,489
+676,Onions - Cooking,food,128.82,789
+677,Sea Bass - Whole,cleaning,237.26,719
+678,Wine - Coteaux Du Tricastin Ac,cosmetic,65.81,664
+679,Pasta - Orecchiette,pets,373.68,846
+680,Wine - Masi Valpolocell,food,94.12,986
+681,Nantucket - Pomegranate Pear,fishing,673.18,30
+682,"Wine - Harrow Estates, Vidal",toys,80.39,408
+683,Sugar Thermometer,bazaar,293.13,553
+684,Cake - Mini Potato Pancake,bazaar,607.83,989
+685,Glass - Juice Clear 5oz 55005,cosmetic,864.43,658
+686,Wine - Baron De Rothschild,fishing,230.69,949
+687,Wine - Peller Estates Late,pets,265.84,224
+688,Squash - Sunburst,cleaning,415.92,264
+689,"Zucchini - Mini, Green",food,723.68,822
+690,Trout - Smoked,cosmetic,751.65,199
+691,"Pasta - Tortellini, Fresh",bazaar,293.26,828
+692,Crab Meat Claw Pasteurise,food,710.95,208
+693,"Pail - 15l White, With Handle",bazaar,315.07,275
+694,"Soup - Knorr, Veg / Beef",toys,345.84,506
+695,Sauce - Alfredo,cleaning,269.74,968
+696,Macaroons - Two Bite Choc,cleaning,342.11,423
+697,Petit Baguette,fishing,16.01,439
+698,"Cheese - Brie,danish",pets,973.1,524
+699,Bread - Raisin Walnut Pull,cleaning,107.63,163
+700,"Vermouth - White, Cinzano",bazaar,573.59,363
+701,"Crab - Dungeness, Whole, live",bazaar,711.0,856
+702,Horseradish - Prepared,pets,625.14,741
+703,Savory,bazaar,671.85,848
+704,Cheese - Oka,bazaar,127.3,423
+705,Wine - Baron De Rothschild,bazaar,107.68,317
+706,"Pasta - Fusili, Dry",bazaar,155.19,956
+707,Bay Leaf,bazaar,843.01,316
+708,Juice - Mango,food,441.12,916
+709,Muskox - French Rack,bazaar,257.53,473
+710,Bacardi Raspberry,bazaar,481.43,779
+711,Wine - Periguita Fonseca,bazaar,618.43,730
+712,"Chocolate - Pistoles, Lactee, Milk",fishing,79.6,637
+713,Crackers - Water,fishing,419.09,807
+714,Orange Roughy 4/6 Oz,toys,735.85,991
+715,Pimento - Canned,toys,151.68,637
+716,"Pork - Butt, Boneless",cleaning,898.42,223
+717,"Nut - Cashews, Whole, Raw",food,761.14,723
+718,Star Fruit,food,989.35,675
+719,Cream - 10%,cosmetic,677.02,836
+720,Gatorade - Lemon Lime,fishing,958.43,374
+721,Zucchini - Green,food,216.72,201
+722,Wine - Zonnebloem Pinotage,cosmetic,465.34,104
+723,Rappini - Andy Boy,fishing,719.58,132
+724,"Syrup - Monin, Amaretta",fishing,86.31,804
+725,Soup - French Can Pea,food,428.76,892
+726,"Ecolab - Orange Frc, Cleaner",cleaning,305.32,566
+727,Langers - Mango Nectar,food,175.48,734
+728,"Soup - Campbells, Butternut",toys,571.33,53
+729,Juice - Lemon,fishing,234.46,661
+730,Salt And Pepper Mix - Black,fishing,473.12,567
+731,"Veal - Brisket, Provimi,bnls",fishing,252.36,627
+732,Turnip - White,cosmetic,314.92,818
+733,"C - Plus, Orange",cleaning,58.64,892
+734,Wine - Cotes Du Rhone,pets,496.43,631
+735,Gatorade - Cool Blue Raspberry,fishing,48.2,133
+736,Cookies Oatmeal Raisin,cleaning,779.98,729
+737,"Orange - Canned, Mandarin",food,587.03,828
+738,"Juice - Pineapple, 341 Ml",pets,442.1,326
+739,"Salt - Rock, Course",cleaning,588.89,532
+740,"Jam - Strawberry, 20 Ml Jar",food,339.82,646
+741,"Salt - Rock, Course",pets,964.42,149
+742,Soupfoamcont12oz 112con,food,266.96,608
+743,"Rum - Cream, Amarula",bazaar,141.36,406
+744,Crab - Meat,pets,967.69,827
+745,"Crab - Back Fin Meat, Canned",pets,718.07,640
+746,Ecolab - Solid Fusion,cleaning,50.01,414
+747,Muffin Chocolate Individual Wrap,food,858.08,986
+748,Browning Caramel Glace,food,1.11,249
+749,Sobe - Orange Carrot,bazaar,156.13,557
+750,Apples - Spartan,cosmetic,559.04,420
+751,"Chilli Paste, Ginger Garlic",toys,500.34,956
+752,"Wine - Red, Wolf Blass, Yellow",food,411.63,314
+753,Beef - Shank,bazaar,913.29,916
+754,Lid - 0090 Clear,toys,247.02,332
+755,Parasol Pick Stir Stick,cosmetic,308.3,674
+756,"Lemonade - Kiwi, 591 Ml",fishing,153.85,317
+757,"Chicken - Thigh, Bone In",bazaar,995.15,177
+758,"Beans - Black Bean, Preserved",pets,996.34,406
+759,Vector Energy Bar,cosmetic,949.86,689
+760,Flavouring - Rum,pets,762.1,787
+761,Appetizer - Mushroom Tart,cleaning,50.4,173
+762,Beets,toys,320.69,698
+763,Beef - Tenderloin Tails,cosmetic,984.46,177
+764,Crush - Cream Soda,bazaar,125.04,445
+765,Beer - Upper Canada Lager,cosmetic,636.06,173
+766,Wine - Masi Valpolocell,fishing,310.39,609
+767,Pastrami,cosmetic,400.89,599
+768,Lettuce - Radicchio,cosmetic,295.62,884
+769,Ice Cream - Life Savers,bazaar,955.98,892
+770,Onions - Vidalia,fishing,92.94,844
+771,Wine - Riesling Alsace Ac 2001,toys,255.13,215
+772,"Pasta - Fettuccine, Dry",fishing,616.86,921
+773,Longos - Chicken Cordon Bleu,toys,780.81,224
+774,Beef - Cow Feet Split,food,280.84,486
+775,Pork - Belly Fresh,food,708.61,623
+776,Coffee - Frthy Coffee Crisp,toys,962.68,87
+777,Bread - White Mini Epi,pets,907.82,581
+778,Scallops 60/80 Iqf,pets,824.33,922
+779,Thyme - Fresh,toys,876.39,928
+780,Basil - Pesto Sauce,pets,26.51,349
+781,Sauce - Oyster,cleaning,157.07,360
+782,Laundry - Bag Cloth,cleaning,742.19,244
+783,"Pasta - Shells, Medium, Dry",toys,262.63,115
+784,"Coconut - Shredded, Unsweet",toys,130.39,903
+785,Lettuce - Baby Salad Greens,toys,462.18,444
+786,Wine - Zinfandel California 2002,cosmetic,956.63,36
+787,Salad Dressing,cosmetic,101.39,590
+788,Smoked Tongue,pets,396.68,884
+789,Tea - Honey Green Tea,toys,820.08,773
+790,"Wine - Red, Mosaic Zweigelt",cleaning,661.09,95
+791,Oil - Grapeseed Oil,fishing,535.88,510
+792,Chocolate - Mi - Amere Semi,fishing,39.87,809
+793,"Wine - Red, Harrow Estates, Cab",fishing,953.08,112
+794,"Cookies - Oreo, 4 Pack",toys,434.56,237
+795,Buffalo - Striploin,pets,720.65,828
+796,"Split Peas - Yellow, Dry",bazaar,130.97,561
+797,The Pop Shoppe - Root Beer,cosmetic,487.8,798
+798,Wine - Sawmill Creek Autumn,pets,280.08,665
+799,Veal - Osso Bucco,fishing,57.38,954
+800,"Beans - Fava, Canned",toys,955.7,344
