@@ -1,47 +1,47 @@
 erDiagram
-    CLIENTES ||--o{ PEDIDOS : realiza
-    PEDIDOS ||--|{ DETALLE_PEDIDOS : contiene
-    PRODUCTOS ||--|{ DETALLE_PEDIDOS : incluye
-    PRODUCTOS ||--o{ INVENTARIOS : ubicado_en
+    CLIENT ||--o{ CUSTOMER_ORDER : realiza
+    CUSTOMER_ORDER ||--|{ ORDER_DETAILS : contiene
+    PRODUCT ||--|{ ORDER_DETAILS : incluye
+    PRODUCT ||--o{ INVENTORY : ubicado_en
 
-    CLIENTES {
-        int id_cliente PK
-        string nombre
+    CLIENT {
+        int id_client PK
+        string name
         string email
-        string direccion
-        string ciudad
-        string codigo_postal
-        date fecha_registro
+        string address
+        string city
+        string zip_code
+        date registration_date
     }
 
-    PRODUCTOS {
-        int id_producto PK
-        string nombre
-        string categoria
-        float precio
+    PRODUCT {
+        int id_product PK
+        string product_name
+        string category
+        float price
         int stock
     }
 
-    PEDIDOS {
-        int id_pedido PK
-        int id_cliente FK
-        date fecha_pedido
+    CUSTOMER_ORDER {
+        int id_order PK
+        int id_client FK
+        date order_date
         float total
-        string estado
+        string state
     }
 
-    DETALLE_PEDIDOS {
-        int id_detalle PK
-        int id_pedido FK
-        int id_producto FK
-        int cantidad
-        float precio_unitario
+    ORDER_DETAILS {
+        int id_detail PK
+        int id_order FK
+        int id_product FK
+        int amount
+        float unit_price
     }
 
-    INVENTARIOS {
-        int id_inventario PK
-        int id_producto FK
-        string ubicacion
-        int cantidad_actual
-        date fecha_ultima_actualizacion
+    INVENTORY {
+        int id_inventory PK
+        int id_product FK
+        string location
+        int current_stock
+        date last_update_date
     }

@@ -1,6 +1,7 @@
 import random
 import pandas as pd
 
+
 def validate_and_fix_id_product(file_path, output_path, min_val=1, max_val=1000):
     """
     Validates and fixes the 'id_product' column:
@@ -41,6 +42,7 @@ def validate_and_fix_id_product(file_path, output_path, min_val=1, max_val=1000)
 
     print(f"✅ Corrected file saved at: {output_path}")
     return df
+
 
 def fix_id_product_inventory(inventory_path, product_path):
     """
@@ -83,6 +85,7 @@ def fix_id_product_inventory(inventory_path, product_path):
     df_inventory.to_csv(inventory_path, index=False)
     print(f"✅ id_product fixed and file overwritten: {inventory_path}")
 
+
 def convert_stock_to_integer(file_path):
     """
     Converts the 'current_stock' column to integer type in a CSV file.
@@ -97,4 +100,5 @@ def convert_stock_to_integer(file_path):
     df['current_stock'] = df['current_stock'].astype(int)
 
     df.to_csv(file_path, index=False)
-    print(f"✅ 'current_stock' column converted to integer and file overwritten: {file_path}")
+    print(
+        f"✅ 'current_stock' column converted to integer and file overwritten: {file_path}")

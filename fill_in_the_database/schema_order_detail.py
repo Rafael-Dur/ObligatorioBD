@@ -1,15 +1,18 @@
 import pandas as pd
 
+
 def fix_prices_and_save(product_csv, order_details_csv, output_csv):
     # Read the CSV files
     df_product = pd.read_csv(product_csv)
     df_order = pd.read_csv(order_details_csv)
 
     # Merge on id_product
-    df_merged = pd.merge(df_order, df_product[['id_product', 'price']], on='id_product', how='left')
+    df_merged = pd.merge(df_order, df_product[['id_product', 'price']], on='id_product',
+                         how='left')
 
     # Keep a trace of original unit_price values
-    df_merged['unit_price_original'] = df_merged['unit_price']  # Optional: track changes if needed
+    df_merged['unit_price_original'] = df_merged[
+        'unit_price']  # Optional: track changes if needed
 
     # Correct unit_price using the price from the product table
     df_merged['unit_price'] = df_merged['price']
@@ -23,6 +26,7 @@ def fix_prices_and_save(product_csv, order_details_csv, output_csv):
     print(f"✅ Corrected file saved as '{output_csv}'")
 
     return df_output
+
 
 def clean_unit_price_column(file_path):
     """
