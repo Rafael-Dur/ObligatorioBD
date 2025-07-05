@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def merge_csvs_with_incremental_id(prefix, count, id_column, output_path=None):
     """
     Merges multiple CSV files with a common prefix and reassigns the ID column incrementally.
@@ -32,6 +33,7 @@ def merge_csvs_with_incremental_id(prefix, count, id_column, output_path=None):
         print(f"✅ Combined file saved at: {output_path}")
 
     return combined_df
+
 
 def load_df_from_csv(csv_path):
     """Loads a CSV into a DataFrame."""

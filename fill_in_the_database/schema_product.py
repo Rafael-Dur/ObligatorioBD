@@ -2,6 +2,7 @@ import pandas as pd
 
 from file_manager import load_df_from_csv
 
+
 def update_product_stock(output_path):
     inventory_df = load_df_from_csv("data_completed/FINAL_INVENTORY_MOCK_DATA.csv")
     product_df = load_df_from_csv("data/PRODUCT_MOCK_DATA.csv")
@@ -24,9 +25,11 @@ def update_product_stock(output_path):
     save_updated_products(updated_product_df, output_path)
     print(f"✅ Product file with updated stock saved at: {output_path}")
 
+
 def save_updated_products(df, output_path):
     df.to_csv(output_path, index=False)
     print(f"✅ Updated product stock saved to {output_path}")
+
 
 def clean_price_column(file_path):
     """
