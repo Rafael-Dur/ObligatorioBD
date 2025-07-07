@@ -1,5 +1,3 @@
-\set ON_ERROR_STOP on
-
 \c ecom
 
 -- ======================================
@@ -26,15 +24,7 @@ GRANT inventory_query TO user_inventory;
 -- Rol: auditor_logs (solo lectura de logs)
 -- ======================================
 CREATE ROLE auditor_logs NOINHERIT;
-DO $$
-BEGIN
-    IF EXISTS (SELECT 1 FROM information_schema.tables 
-               WHERE table_schema = 'public' AND table_name = 'logs') THEN
-        GRANT SELECT ON logs TO auditor_logs;
-    ELSE
-        RAISE WARNING 'Tabla "logs" no existe. No se asignaron privilegios al rol auditor_logs.';
-    END IF;
-END $$;
+GRANT SELECT ON logs TO auditor_logs;
 
 CREATE USER user_auditor WITH PASSWORD 'auditor123';
 GRANT auditor_logs TO user_auditor;
